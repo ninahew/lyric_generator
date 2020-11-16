@@ -1,2 +1,2 @@
-# lyric_generator
+## Lyric Generator
 Using Machine Learning to build a lyric generator. 
